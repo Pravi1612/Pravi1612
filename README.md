@@ -1,13 +1,10 @@
-### Hola, I'm NithinRaaj 👋
+### Hola, I'm PraveenRaja 👋
 
-- 🔭 I’m currently working as Devops
+- 🔭 I’m currently working as flutter
 - 🌱 I’m currently learning docker,kubernetes...
-- 👯 I’m looking to collaborate on YouTube
-- 🤔 I’m looking for help with Devops
+- 🤔 I’m looking for help with flutter
 - 💬 Ask me about Flutter related contents
 - 📫 How to reach me:  
-- [Instagram - @nithin.raaj](https://www.instagram.com/nithin.raaj/) 
-- [Youtube - Nithin Raaj](https://www.youtube.com/channel/UC7ysoVU2Lh2kDepOuG-mIsw/featured)
-- [LinkedIn - Nithin Raaj](https://www.linkedin.com/in/nithin-raaj-8b252519b/)
+- [Instagram - @pr._.avi](https://www.instagram.com/pr._.avi/) 
+- [LinkedIn - Praveen Raja](https://www.linkedin.com/in/praveen-raja-200a87212/)
 - 😄 Pronouns: He / His
-- ⚡ Fun fact: I Merly wanted to look like Iron Man in Marvel🤣
